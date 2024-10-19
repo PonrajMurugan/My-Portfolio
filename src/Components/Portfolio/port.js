@@ -102,7 +102,7 @@ const Portfolio = () => {
                   <p><span>Place :</span> Poolangulam </p>
                   <p><span>Phone :</span> +91 8681857753</p>
                   <p><span>Age :</span> 23 </p>
-                  <p><span>Degree :</span> Eletronics Engineering (88%)</p>
+                  <p><span>Degree :</span> Electronics Engineering (88%)</p>
                   <p><span>Email :</span> Ponraj@outlook.com</p>
 
                   <p><span>Course :</span> Front End Developer</p>
